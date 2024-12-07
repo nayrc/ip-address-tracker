@@ -6,7 +6,7 @@ import axios from "axios";
 import IconArrow from "./assets/images/icon-arrow.svg";
 import IconLocation from "./assets/images/icon-location.svg";
 
-const geoApiKey = import.meta.env.VITE_API_KEY;
+const geoApiKey = 'at_1ycMm9Db8wsMgALQyjxdkonVMr5Ei';
 const ipAddress = ref(null);
 const ip = ref(null);
 
